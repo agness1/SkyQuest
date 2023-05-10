@@ -1,0 +1,377 @@
+{
+  "type": [
+    {
+      "name": "Boeing 747",
+      "history": {
+        "content": "The Boeing 747, also known as the Jumbo Jet, was designed by Boeing Commercial Airplanes in the 1960s. It first took flight on February 9, 1969, and was introduced to commercial service with Pan Am in 1970. It revolutionized air travel with its double-deck configuration and hump on the front of the plane to house the cockpit. The 747 was produced until 2022 and remains one of the most iconic planes in aviation history.",
+        "title": "History"
+      },
+      "production_end": "2022",
+      "total_flights": "1,568,994",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving a Boeing 747 occurred on March 27, 1977, when two 747s collided on the runway at Tenerife, Canary Islands. 583 people were killed, making it the deadliest aviation accident in history."
+      },
+      "images": {
+        "header_img": "/images/planes/boeing-747.png",
+        "history_img": "https://api.time.com/wp-content/uploads/2023/01/boeing-747-1.jpg",
+        "technical_img": "https://www.lufthansa.com/content/dam/lh/images/local_images/discover-lufthansa/fleet/B747-8.jpg.transform/lh-dcep-transform-width-1440/img.jpg",
+        "facts_img": "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/01/shutterstock_1312961120.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5.jpg",
+        "worst_accident_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Het_verongelukte_KLM-toestel_De_Rijn%2C_Bestanddeelnr_929-1005_-_cropped.jpg/1024px-Het_verongelukte_KLM-toestel_De_Rijn%2C_Bestanddeelnr_929-1005_-_cropped.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "152,670 kg",
+          "max_takeoff": "396,890 kg"
+        },
+        "dimensions": {
+          "length": "70.6 m",
+          "height": "19.4 m",
+          "wingspan": "59.6 m"
+        },
+        "engines": [
+          "General Electric CF6",
+          "Pratt & Whitney JT9D",
+          "Rolls-Royce RB211"
+        ]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The 747 has been used by many airlines around the world for both passenger and cargo transport. In addition to its commercial use, the 747 has been used as a presidential aircraft, with the United States Air Force operating two modified 747s as Air Force One. The 747SP (Special Performance) was a shortened version of the 747 designed for ultra-long-range flights. It was used by many airlines for non-stop flights between cities like New York and Tokyo."
+      }
+    },
+
+    {
+      "name": "Boeing 787",
+      "history": {
+        "title": "History",
+        "content": "The Boeing 787, also known as the Dreamliner, was designed by Boeing Commercial Airplanes in the early 2000s. It first took flight on December 15, 2009, and was introduced to commercial service with All Nippon Airways in 2011. The 787 features many new technologies, such as composite materials and electric systems, and is designed to be more fuel-efficient than previous models. It is still in production today and is one of the most popular wide-body aircraft in service."
+      },
+      "production_end": "Currently in production",
+      "total_flights": "Over 1 million (as of 2023)",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving a Boeing 787 occurred on July 6, 2013, when an Asiana Airlines 787 crashed while landing at San Francisco International Airport. Three people were killed and over 180 were injured."
+      },
+      "images": {
+        "header_img": "/images/planes/boeing-787.png",
+        "history_img": "https://www.reuters.com/resizer/pjhWJS8Wp02DH9oKX9uNITrsCxI=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5RAPY3BEAFOLBGVSZLZTUS2CHE.jpg",
+        "technical_img": "https://cdn.pixabay.com/photo/2017/08/04/20/07/boeing-787-2585694_960_720.png",
+        "facts_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg/1280px-Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg",
+        "worst_accident_img": "https://static01.nyt.com/images/2013/07/13/business/Plane/Plane-jumbo.jpg?quality=75&auto=webp.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "110,000 kg",
+          "max_takeoff": "254,011 kg"
+        },
+        "dimensions": {
+          "length": "62.8 m",
+          "height": "17 m",
+          "wingspan": "60.1 m"
+        },
+        "engines": ["General Electric GEnx", "Rolls-Royce Trent 1000"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The Boeing 787 was the first commercial aircraft to be primarily made of composite materials, which make it lighter and more fuel-efficient than previous models. The 787 also features an electric system, which replaces many of the traditional pneumatic and hydraulic systems found on older aircraft."
+      }
+    },
+    {
+      "name": "Airbus A380",
+      "history": {
+        "content": "The Airbus A380 is a double-deck, wide-body, four-engine jet airliner manufactured by Airbus. It is the world's largest passenger airliner and made its first flight on April 27, 2005. The A380 was designed to challenge Boeing's monopoly in the large-aircraft market and was intended to be more fuel-efficient and quieter than previous large aircraft. Despite initially strong sales, the A380 program was discontinued in 2021 due to low demand.",
+        "title": "History"
+      },
+      "production_end": "2021",
+      "total_flights": "less than 300,000",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The worst accident involving an Airbus A380 occurred on November 4, 2010, when Qantas Flight 32 experienced an uncontained engine failure shortly after takeoff from Singapore Changi Airport. The aircraft landed safely, but there were no fatalities among the 469 passengers and crew onboard."
+      },
+      "images": {
+        "header_img": "/images/planes/airbus-a380.png",
+        "history_img": "https://d1a2ot8agkqe8w.cloudfront.net/web/2010/07/a380-in-final-assembly-line-airbus_34985.jpg",
+        "technical_img": "https://cdn.pixabay.com/photo/2015/06/19/21/36/airbus-a380-815589_960_720.jpg",
+        "facts_img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Singapore_Airlines_Airbus_A380_woah%21.jpg",
+        "worst_accident_img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "277,000 kg",
+          "max_takeoff": "575,000 kg"
+        },
+        "dimensions": {
+          "length": "72.7 m",
+          "height": "24.1 m",
+          "wingspan": "79.8 m"
+        },
+        "engines": ["Rolls-Royce Trent 900", "Engine Alliance GP7000"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The A380 features a unique staircase connecting the two passenger decks, as well as an onboard lounge and bar. It is also known for its quiet and smooth ride, thanks to its advanced aerodynamic design and powerful engines. The A380 has been used by many major airlines around the world, including Emirates, Singapore Airlines, and Qantas."
+      }
+    },
+
+    {
+      "name": "Airbus A350",
+      "history": {
+        "content": "The Airbus A350 is a long-range, wide-body aircraft developed by Airbus. The project was launched in 2004, and the first flight took place on June 14, 2013. The A350 entered service with Qatar Airways in January 2015. The aircraft was developed as a competitor to the Boeing 787 and 777, and features advanced technology, including a carbon fiber fuselage, state-of-the-art engines, and a digital cockpit.",
+        "title": "History"
+      },
+      "production_end": "Currently in production",
+      "total_flights": "More than 1,025,000",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "There have been no reported fatal accidents involving the Airbus A350."
+      },
+      "images": {
+        "header_img": "/images/planes/a-350.png",
+        "history_img": "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2021/11/20211104_102755.jpg",
+        "technical_img": "https://cdn.pixabay.com/photo/2018/05/20/22/04/aircraft-3418303_960_720.jpg",
+        "facts_img": "https://img.static-af.com/images/media/4D40E544-733F-4820-855C002021F9852E/?w=480&aspect_ratio=2:1.jpg",
+        "worst_accident_img": "https://www.rynek-lotniczy.pl//img/20220706222815EtihadAirwaysSustainable50A3501.jpg_678-443.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "144,500 kg (318,000 lb)",
+          "max_takeoff": "280,000 kg (617,000 lb)"
+        },
+        "dimensions": {
+          "length": "66.8 m (219 ft 5 in)",
+          "height": "17.05 m (55 ft 11 in)",
+          "wingspan": "64.8 m (212 ft 7 in)"
+        },
+        "engines": ["Rolls-Royce Trent XWB", "General Electric GEnx"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The A350 is the first Airbus aircraft to use a carbon fiber fuselage, making it lighter and more fuel-efficient than previous models. It is also the first Airbus aircraft to feature a digital cockpit, which reduces the need for traditional analog instruments and allows for more advanced automation. The A350 has been well-received by airlines and passengers alike, and has won numerous awards for its design and performance."
+      }
+    },
+    {
+      "name": "Boeing 777",
+      "history": {
+        "content": "The Boeing 777, also known as the Triple Seven, is a long-range wide-body twin-engine jet airliner. It was designed and developed by Boeing Commercial Airplanes in the 1990s to replace the 747 as Boeing's flagship aircraft. The first flight of the 777 took place on June 12, 1994, and it entered commercial service with United Airlines in 1995. The 777 has been continuously produced since then and is still in service with many airlines around the world.",
+        "title": "History"
+      },
+      "production_end": "Currently in production",
+      "total_flights": "5,431,031",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The worst accident involving a Boeing 777 occurred on July 6, 2013, when Asiana Airlines Flight 214 crashed while landing at San Francisco International Airport. Three passengers died and more than 180 were injured."
+      },
+      "images": {
+        "header_img": "/images/planes/boeing-777.png",
+        "history_img": "https://images.unsplash.com/photo-1601544564660-98f64a967a9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg",
+        "technical_img": "https://i.pinimg.com/originals/01/28/72/0128720b81ccc96d052b49b4ab38d309.jpg",
+        "facts_img": "https://images.unsplash.com/photo-1565614873782-ec6ef19e18f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80.jpg",
+        "worst_accident_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NTSBAsiana214Fuselage2.jpg/1280px-NTSBAsiana214Fuselage2.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "318,000 lb (144,000 kg)",
+          "max_takeoff": "775,000 lb (352,000 kg)"
+        },
+        "dimensions": {
+          "length": "209 ft 1 in (63.7 m)",
+          "height": "61 ft 1 in (18.6 m)",
+          "wingspan": "199 ft 11 in (60.9 m)"
+        },
+        "engines": [
+          "General Electric GE90",
+          "Pratt & Whitney PW4000",
+          "Rolls-Royce Trent 800"
+        ]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The 777 was the first Boeing airliner to be designed entirely with computer-aided design tools. It was also the first commercial aircraft to be designed with fly-by-wire technology, which uses electronic signals instead of mechanical cables to control the plane. The 777 is available in several models, including the 777-200, 777-300, 777-200LR, 777-300ER, and 777F (freighter). It has set several world records, including the longest non-stop commercial flight, which was operated by Emirates from Dubai to Auckland in 2016."
+      }
+    },
+    {
+      "name": "Boeing 737 MAX",
+      "history": {
+        "content": "The Boeing 737 MAX is a narrow-body aircraft developed by Boeing Commercial Airplanes as an upgrade to the popular Boeing 737 Next Generation series. It was designed to be more fuel-efficient and technologically advanced, featuring improved aerodynamics and new engines. The 737 MAX first flew on January 29, 2016, and was introduced to commercial service with Malindo Air in May 2017. However, the aircraft was involved in two fatal accidents, leading to its grounding worldwide in March 2019. After implementing software and training updates, the 737 MAX was recertified and resumed commercial flights in late 2020.",
+        "title": "History"
+      },
+      "production_end": "Currently in production",
+      "total_flights": "To be determined",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving a Boeing 737 MAX occurred on October 29, 2018, when Lion Air Flight 610 crashed into the Java Sea shortly after takeoff from Jakarta, Indonesia. All 189 passengers and crew members on board were killed."
+      },
+      "images": {
+        "header_img": "/images/planes/boeing-max.png",
+        "history_img": "https://static01.nyt.com/images/2019/12/16/business/16db-boeing/merlin_166024653_449d5c6c-2ac0-4583-89f2-9440610a9b90-superJumbo.jpg",
+        "technical_img": "",
+        "facts_img": "https://v.wpimg.pl/QUJDREVGfjQrJiR2eTxzIWh-cCw_ZX13P2ZoZ3lxY2EyazQsOiIjMDorfCIkMiE0PTR8NTpoMCUjayR0eSM4JjooMzx5Ijw3LyB9JzR1YTcvJmpoYHFmYmdwa3Vhamgzcyd_d2QhMmAoIjN9YiRkdzc",
+        "worst_accident_img": "https://i.insider.com/5db2ad5fdee019516e1a31a3?width=700.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "41,145kg",
+          "max_takeoff": "70,535kg"
+        },
+        "dimensions": {
+          "length": "35.56 m",
+          "height": "4.01 m",
+          "wingspan": "35.9 m"
+        },
+        "engines": ["CFM International LEAP-1B"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The Boeing 737 MAX incorporates several technological advancements, including the use of larger and more efficient engines, improved aerodynamics, and advanced avionics systems. It was designed to compete with the Airbus A320neo series in the narrow-body market segment. Despite the challenges it faced, the 737 MAX has been an integral part of many airlines' fleets, offering increased range and fuel efficiency for short to medium-haul routes."
+      }
+    },
+    {
+      "name": "Airbus A320",
+      "history": {
+        "content": "The Airbus A320 is a narrow-body aircraft manufactured by Airbus. It was first introduced in 1988 and quickly became one of the most popular aircraft models in the world. The A320 family of aircraft includes the A318, A319, A320, and A321 variants, each offering different seating capacities and range capabilities. The A320 was designed to compete with the Boeing 737 series and incorporates advanced fly-by-wire technology for enhanced control and efficiency.",
+        "title": "History"
+      },
+      "production_end": "Currently in production",
+      "total_flights": "more than 164 million",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving an Airbus A320 occurred on March 24, 2015, when Germanwings Flight 9525 crashed in the French Alps. All 150 passengers and crew members on board were killed."
+      },
+      "images": {
+        "header_img": "/images/planes/airbus-a320.png",
+        "history_img": "https://www.airteamimages.com/pics/219/219773_800.jpg",
+        "technical_img": "",
+        "facts_img": "https://i.iplsc.com/airbus-a320-to-samolot-ktory-w-swojej-flocie-maja-najwieksze/000FQK5RD5MQU4YI-C122-F4.jpg",
+        "worst_accident_img": "https://static01.nyt.com/images/2015/03/27/world/PLANE/PLANE-superJumbo.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "39,500 kg",
+          "max_takeoff": "77.000 kg"
+        },
+        "dimensions": {
+          "length": "37.57 m",
+          "height": "11.76 m",
+          "wingspan": "35.80 m with Sharklets"
+        },
+        "engines": [
+          "CFM International CFM56",
+          "International Aero Engines V2500"
+        ]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The Airbus A320 series has been widely used by airlines around the world for short to medium-haul flights. It was the first commercial aircraft to introduce digital fly-by-wire technology, which replaced conventional mechanical controls with electronic systems. The A320 offers a comfortable cabin layout with wider seats and larger overhead storage compartments compared to previous generations of aircraft. As of now, the A320neo (New Engine Option) variant is the latest version of the A320 family, featuring more fuel-efficient engines and improved performance."
+      }
+    },
+    {
+      "name": "McDonnell Douglas MD-11",
+      "history": {
+        "content": "The McDonnell Douglas MD-11 is a wide-body trijet aircraft manufactured by McDonnell Douglas. It is an extended and updated version of the popular DC-10 series. The MD-11 was first introduced in 1990 and aimed to provide improved performance and efficiency. However, it faced challenges in the market due to competition from newer twin-engine aircraft. Despite this, the MD-11 found a niche in cargo operations and was used by various cargo airlines around the world.",
+        "title": "History"
+      },
+      "production_end": "2001",
+      "total_flights": "To be determined",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving an MD-11 occurred on September 2, 1998, when Swissair Flight 111 crashed into the Atlantic Ocean off the coast of Nova Scotia, Canada. All 229 passengers and crew members on board were killed."
+      },
+      "images": {
+        "header_img": "/images/planes/md-11.png",
+        "history_img": "https://i.pinimg.com/736x/81/34/e8/8134e89b01c92feeeb51696f06b77667.jpg",
+        "technical_img": "",
+        "facts_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/American_Airlines.MD-11.N1767A.90%27s.jpg/1200px-American_Airlines.MD-11.N1767A.90%27s.jpg",
+        "worst_accident_img": "https://cdn.britannica.com/91/196591-050-51BB70D8/Monument-victims-flight-Swissair-Nova-Scotia-Canada.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "125.872 kg",
+          "max_takeoff": "260,000 kg"
+        },
+        "dimensions": {
+          "length": "61,20 m",
+          "height": "17,60 m",
+          "wingspan": "51,60 m"
+        },
+        "engines": ["Pratt & Whitney PW4000", "General Electric CF6"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The MD-11 was the last commercial aircraft model produced by McDonnell Douglas before the company merged with Boeing. It featured advanced avionics, a glass cockpit, and improved aerodynamics compared to its predecessor, the DC-10. The MD-11 was known for its distinctive wingtip extensions, which increased fuel efficiency. While it did not achieve the same commercial success as the DC-10, the MD-11 proved popular among cargo operators for its long-range capabilities and large cargo capacity."
+      }
+    },
+    {
+      "name": "Embraer E190",
+      "history": {
+        "content": "The Embraer E190 is a narrow-body, twin-engine jet aircraft manufactured by Embraer, a Brazilian aerospace company. It is part of the E-Jet family, which includes the E170, E175, and E195 variants. The E190 was introduced in 2005 and designed to cater to the regional aviation market, offering improved efficiency and passenger comfort. It has gained popularity among airlines operating short to medium-haul routes.",
+        "title": "History"
+      },
+      "production_end": "Ongoing",
+      "total_flights": "To be determined",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "There have been no reported fatal accidents involving the Embraer E190."
+      },
+      "images": {
+        "header_img": "/images/planes/e-190.png",
+        "history_img": "https://d1a2ot8agkqe8w.cloudfront.net/web/2017/10/e-jet_71871.jpg",
+        "technical_img": "",
+        "facts_img": "https://www.rynek-lotniczy.pl//img/20220525181108LOTEmbraerE190SPLMEWAWPiotrBozyk1.jpg_678-443.jpg",
+        "worst_accident_img": "https://www.rynek-lotniczy.pl//img/20210604225829EmbraerE190E2ProfitHunterPiotrBozyk.jpg_678-443.jpg"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "28 080 kg",
+          "max_takeoff": "43 000 kg"
+        },
+        "dimensions": {
+          "length": "29.90 m",
+          "height": "9.83 m",
+          "wingspan": "26.01 m "
+        },
+        "engines": ["General Electric CF34", "Rolls-Royce AE 2100"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The Embraer E190 is known for its spacious cabin, with a seating capacity of around 100 passengers in a typical configuration. It features a modern fly-by-wire control system, advanced avionics, and efficient engines. The E190 offers excellent performance on short runways, making it suitable for operations in both large and small airports. Embraer has continued to enhance the E-Jet family with the introduction of the E2 series, which includes the E190-E2, featuring even greater fuel efficiency and improved range."
+      }
+    },
+    {
+      "name": "Boeing 757",
+      "history": {
+        "content": "The Boeing 757 is a narrow-body, twin-engine jet aircraft manufactured by Boeing Commercial Airplanes. It was first introduced in 1983 and designed to cater to the medium-range market, offering a balance between passenger capacity and fuel efficiency. The 757 quickly gained popularity among airlines around the world and became a staple in their fleets, serving both domestic and international routes.",
+        "title": "History"
+      },
+      "production_end": "2004",
+      "total_flights": "To be determined",
+      "worst_accident": {
+        "title": "Worst accident",
+        "description": "The deadliest accident involving a Boeing 757 occurred on September 11, 2001, when American Airlines Flight 77 was hijacked and crashed into the Pentagon in Arlington, Virginia, as part of the terrorist attacks in the United States. All 64 people on board the aircraft, including the hijackers, as well as 125 people inside the Pentagon, were killed."
+      },
+      "images": {
+        "header_img": "/images/planes/757.png",
+        "history_img": "https://www.taipeitimes.com/images/2004/10/31/20041030201810.jpeg",
+        "technical_img": "",
+        "facts_img": "https://www.georgiaencyclopedia.org/wp-content/uploads/2021/02/eastern-airlines-boeing-757-in-flight_001.jpg",
+        "worst_accident_img": "https://media.defense.gov/2019/Aug/20/2002173129/1280/1280/0/190820-D-ZZ999-987.JPG"
+      },
+      "technical_data": {
+        "weight": {
+          "empty": "57,840 kg",
+          "max_takeoff": "115,680 kg "
+        },
+        "dimensions": {
+          "length": "47.3 m",
+          "height": "13.56 m",
+          "wingspan": "38 m"
+        },
+        "engines": ["Rolls-Royce RB211", "Pratt & Whitney PW2000"]
+      },
+      "interesting_facts": {
+        "title": "Interesting facts",
+        "content": "The Boeing 757 was the largest single-aisle passenger aircraft at the time of its introduction. It featured advanced technology and aerodynamics, including high-lift devices on the wings and a supercritical wing design, which contributed to its fuel efficiency. The 757 was also available in a freighter configuration, allowing for the transportation of cargo. Despite being out of production, many airlines continue to operate the 757 due to its reliability and versatility."
+      }
+    }
+  ]
+}

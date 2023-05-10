@@ -1,0 +1,44 @@
+{
+  "planes": [
+    {
+      "name": "Boeing 747",
+      "image": "https://cdn.pixabay.com/photo/2015/08/11/12/37/boeing-747-884408_1280.jpg"
+    },
+    {
+      "name": "Boeing 777",
+      "image": "https://cdn.pixabay.com/photo/2018/04/26/18/37/the-plane-3352698_1280.jpg"
+    },
+    {
+      "name": "Boeing 787",
+      "image": "https://cdn.pixabay.com/photo/2019/03/10/20/11/airport-4047164_1280.jpg"
+    },
+    {
+      "name": "Airbus A380",
+      "image": "https://cdn.pixabay.com/photo/2013/02/26/22/34/aircraft-86453_1280.jpg"
+    },
+    {
+      "name": "Airbus A350",
+      "image": "https://images.unsplash.com/photo-1561461888-70c48ccb280d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=966&q=80"
+    },
+    {
+      "name": "Boeing 737 MAX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ethiopian_Airlines_ET-AVJ_takeoff.jpg/1280px-Ethiopian_Airlines_ET-AVJ_takeoff.jpg"
+    },
+    {
+      "name": "Airbus A320",
+      "image": "https://cdn.pixabay.com/photo/2017/08/18/10/52/wizz-2654513_1280.jpg"
+    },
+    {
+      "name": "McDonnell Douglas MD-11",
+      "image": "https://www.pasazer.com/img/images/airplane/sam-92.jpg"
+    },
+    {
+      "name": "Embraer E190",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/P4-KCE_Delivery-Flight_%286269067923%29_%282%29.jpg/1280px-P4-KCE_Delivery-Flight_%286269067923%29_%282%29.jpg"
+    },
+    {
+      "name": "Boeing 757",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Delta_Air_Lines_B757-351_N586NW_LAX.jpg/1280px-Delta_Air_Lines_B757-351_N586NW_LAX.jpg"
+    }
+  ]
+}

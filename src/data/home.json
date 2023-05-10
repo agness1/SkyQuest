@@ -1,0 +1,23 @@
+{
+  "title": "SkyQuest",
+  "subtitle": {
+    "quote": "Aviation is proof that given the will, we have the capacity to achieve the impossible.",
+    "author": "Edward Vernon Rickenbacker"
+  },
+  "headerImage": "/images/b-2.png",
+  "history": {
+    "text": "Aviation history is the history of invention, experimentation and discovery of mankind in the sky. The history of aviation can be traced back to ancient times when people used to try and fly like birds with wings made of feathers and wax. Over the centuries, many inventors and scientists worked towards making aviation possible and today it is an integral part of our lives.",
+    "milestones": [
+      {
+        "year": "1783",
+        "event": "The first untethered hot air balloon flight by the Montgolfier brothers marked a significant milestone in the history of aviation. Joseph and Etienne Montgolfier, two French inventors from Annonay, developed the concept of using hot air to lift a balloon off the ground. After years of experimentation, they finally achieved success on November 21, 1783, when they launched the first untethered hot air balloon flight in Paris, France. The Montgolfier brothers used a large silk balloon filled with hot air to lift a basket off the ground. To test the safety of the balloon, they decided to use live animals as passengers - a sheep, a rooster, and a duck. The balloon rose to a height of 500 feet and traveled a distance of about two miles before landing safely. This historic event attracted a huge crowd, and it marked the beginning of a new era in aviation. The Montgolfier brothers' invention was soon followed by many other developments, and hot air balloons became a popular form of entertainment and transportation.",
+        "eventImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1783_balloonj.jpg/660px-1783_balloonj.jpg"
+      },
+      {
+        "year": "1903",
+        "event": "The first powered flight by the Wright Brothers was a groundbreaking achievement in aviation history. Orville and Wilbur Wright, two inventors from Dayton, Ohio, had been working on the concept of powered flight for years. On December 17, 1903, they finally achieved success when they launched their Wright Flyer I. The Wright Flyer I was a biplane with a wingspan of 40 feet and a weight of 605 pounds. It was powered by a 12-horsepower engine and had a maximum speed of about 30 miles per hour. Orville Wright was the pilot for the first flight, and he managed to keep the plane in the air for 12 seconds, covering a distance of 120 feet. This marked the first powered, sustained, and controlled flight of a heavier-than-air aircraft in history. The Wright brothers' achievement revolutionized the field of aviation, and their invention soon paved the way for many other developments. Today, airplanes are a crucial part of modern transportation, connecting people and goods across the world. The Wright brothers' contribution to aviation will always be remembered as a major milestone in human history.",
+        "eventImage": "https://airandspace.si.edu/sites/default/files/styles/body_large/public/images/SI85-3314_640.jpg?itok=gCxU2IG8"
+      }
+    ]
+  }
+}

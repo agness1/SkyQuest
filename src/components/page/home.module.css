@@ -1,0 +1,160 @@
+.header_container {
+  padding-top: 6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #e9f8f9;
+}
+
+.inner_container {
+  min-height: 200vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-image: url("https://images.unsplash.com/photo-1536514498073-50e69d39c6cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img_header_container {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/images/b-2.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content_container {
+  display: flex;
+  margin-top: 10rem;
+  align-items: center;
+  flex-direction: column;
+}
+.event_container {
+  margin-bottom: 10rem;
+  background-color: #e9f8f9;
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  border-radius: 1rem;
+}
+
+.history_paragraph {
+  padding-top: 15rem;
+  line-height: 3.2rem;
+  text-align: center;
+  font-size: 2.3rem;
+  color: #181823;
+}
+
+.history_event {
+  padding: 2rem;
+  width: 90%;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #181823;
+}
+.history_event p {
+  line-height: 2rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 2rem;
+}
+.history_event_img {
+  max-width: 40%;
+  border-radius: 1rem;
+}
+.subtitle {
+  width: 100%;
+
+  color: #181823;
+  top: 0;
+  max-width: 60%;
+}
+.quote {
+  font-family: "Unna";
+  font-size: 3rem;
+}
+.author {
+  text-align: right;
+  padding: 2rem;
+  font-size: 2rem;
+}
+.typewriter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 70%;
+}
+.typewriter h1 {
+  font-size: 4rem;
+  overflow: hidden;
+  border-right: 0.15em solid rgb(241, 241, 241);
+  color: rgb(255, 255, 255);
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: 0.15em;
+  animation: typing 1.9s steps(20, end), blink-caret 0.7s step-end infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(255, 255, 255);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .img_header_container {
+    background-image: url("/images/b-2-spirit-mobile.png");
+    background-size: contain;
+  }
+  .typewriter {
+    top: 20%;
+  }
+
+  .typewriter h1 {
+    font-size: 3rem;
+  }
+  .inner_container {
+    padding: 10rem 0 10rem 0;
+  }
+  .subtitle {
+    text-align: center;
+    max-width: 80%;
+  }
+  .author {
+    text-align: left;
+  }
+}

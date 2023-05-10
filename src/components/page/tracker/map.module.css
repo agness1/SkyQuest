@@ -1,0 +1,18 @@
+.mapContainer {
+  padding-top: 3rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 90vh;
+  position: relative;
+}
+.mapContainer h1 {
+  color: white;
+  padding: 3rem;
+  text-align: center;
+}
+
+.map {
+  height: 70%;
+  z-index: 0;
+}

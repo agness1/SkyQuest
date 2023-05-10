@@ -1,0 +1,185 @@
+{
+  "type": [
+    {
+      "name": "Lockheed Martin F-22 Raptor",
+      "history": "The F-22 Raptor is a single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed for the United States Air Force. It was designed primarily as an air superiority fighter, but has additional capabilities including ground attack, electronic warfare, and signals intelligence roles.",
+      "year": "1997",
+      "purpose": [
+        "Air superiority",
+        "Ground attack",
+        "Electronic warfare",
+        "Signals intelligence"
+      ],
+      "technologies_used": {
+        "first_technology": {
+          "name": "Stealth technology",
+          "description": "The F-22's low observable or stealth characteristics make it difficult for enemy radar to detect, track, and engage."
+        },
+        "second_technology": {
+          "name": "Supercruise",
+          "description": "The F-22's engines, combined with the low drag and reduced weight of its airframe, enable the aircraft to sustain supersonic flight without the use of afterburners."
+        },
+        "third_technology": {
+          "name": "Advanced avionics",
+          "description": "The F-22 is equipped with a suite of advanced avionics that enable it to operate in contested environments and provide pilots with improved situational awareness."
+        }
+      },
+      "images": {
+        "history_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/F-22_Raptor_-_100702-F-4815G-217.jpg/1920px-F-22_Raptor_-_100702-F-4815G-217.jpg",
+        "facts_img": "https://images.unsplash.com/photo-1587736462879-c9593d8692e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80.jpg",
+        "header_img": "/images/planes/lockheed-martin-f-22.png"
+      },
+      "engine_type": "Twin Pratt & Whitney F119-PW-100 turbofan engines",
+      "fun_fact": "The F-22 Raptor has a unique canted vertical stabilizer design, which helps to reduce radar visibility and increase maneuverability."
+    },
+
+    {
+      "name": "F-35 Lightning II",
+      "history": "The F-35 Lightning II is a single-seat, single-engine, all-weather stealth multirole fighter aircraft developed for the United States military. It was designed to be a versatile platform capable of performing air superiority, ground attack, reconnaissance, and electronic warfare missions.",
+      "year": "2006",
+      "purpose": [
+        "Air superiority",
+        "Ground attack",
+        "Electronic warfare",
+        "Reconnaissa"
+      ],
+      "technologies_used": {
+        "first_technology": {
+          "name": "stealth technology",
+          "description": "The F-35's low observable or stealth characteristics make it difficult for enemy radar to detect, track, and engage."
+        },
+        "second_technology": {
+          "name": "sensor fusion",
+          "description": "The F-35 is equipped with advanced sensor systems that gather and analyze information from multiple sources, providing pilots with a comprehensive view of the battlespace."
+        },
+        "third_technology": {
+          "name": "supersonic speed",
+          "description": "The F-35 is capable of supersonic flight without using afterburners, thanks to its powerful engine and advanced aerodynamic design."
+        }
+      },
+      "images": {
+        "history_img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/F-35_Lightning_II_at_Nellis_Air_Force_Base_6_Mar_2013.jpg",
+        "facts_img": "https://www.magnum-x.pl/files/2015/Lotnictwo/12/4.jpg",
+        "header_img": "/images/planes/f-35.png"
+      },
+      "engine_type": "Single Pratt & Whitney F135-PW-100 turbofan engine",
+      "fun_fact": "The F-35 Lightning II is the most expensive weapons program in history, with an estimated total cost of over $1.5 trillion."
+    },
+
+    {
+      "name": "F-15 Eagle",
+      "history": "The F-15 Eagle is a twin-engine, all-weather tactical fighter aircraft designed for the United States Air Force. It was developed in the 1970s as a dedicated air superiority fighter, and has since been used in a variety of other roles, including ground attack and reconnaissance.",
+      "year": "1972",
+      "purpose": [
+        "Air superiority",
+        "Ground attack",
+        "Electronic warfare",
+        "Reconnaissance"
+      ],
+      "technologies_used": {
+        "first_technology": {
+          "name": "maneuverability",
+          "description": "The F-15 Eagle has a highly maneuverable airframe that allows it to outmaneuver most other fighter aircraft."
+        },
+        "second_technology": {
+          "name": "avionics",
+          "description": "The F-15 Eagle is equipped with advanced avionics that provide pilots with a comprehensive view of the battlespace and improve situational awareness."
+        },
+        "third_technology": {
+          "name": "weapons systems",
+          "description": "The F-15 Eagle is armed with a variety of weapons systems, including air-to-air missiles and air-to-ground munitions, making it a versatile platform for a range of mission types."
+        }
+      },
+      "images": {
+        "history_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/F-15_eagle_USAF.jpg/1280px-F-15_eagle_USAF.jpg",
+        "facts_img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG",
+        "header_img": "/images/planes/f-15.png"
+      },
+      "engine_type": "Two Pratt & Whitney F100-PW-100 turbofan engines",
+      "fun_fact": "The F-15 Eagle has the distinction of having the highest number of air-to-air victories of any Western fighter aircraft, with over 100 kills and no losses in air-to-air combat."
+    },
+
+    {
+      "name": "Northrop B-2 Spirit",
+      "history": "The B-2 Spirit is a low-observable, strategic, long-range, heavy bomber designed for penetrating dense anti-aircraft defenses. It was developed for the United States Air Force as a successor to the B-52 Stratofortress.",
+      "year": "1989",
+      "purpose": ["Strategic bombing", "Stealth operations"],
+      "technologies_used": {
+        "first_technology": {
+          "name": "stealth technology",
+          "description": "The B-2 Spirit's unique shape and advanced materials make it nearly invisible to radar, allowing it to penetrate deep into enemy territory undetected."
+        },
+        "second_technology": {
+          "name": "low-observable materials",
+          "description": "The B-2 Spirit is made of advanced composite materials that absorb radar waves, making it difficult to detect."
+        },
+        "third_technology": {
+          "name": "precision-guided munitions",
+          "description": "The B-2 Spirit is equipped with a range of precision-guided munitions, including JDAMs and B61 nuclear bombs, allowing it to strike targets with extreme accuracy."
+        }
+      },
+      "images": {
+        "history_img": "https://i.wpimg.pl/1300x866/filerepo.grupawp.pl/api/v1/display/embed/a87a8fe5-424b-45de-bef1-36f36c8ab4c2",
+        "facts_img": "https://gagadget.com/media/uploads/B-2%20Spirit-1.jpeg",
+        "header_img": "/images/b-2.png"
+      },
+      "engine_type": "Four General Electric F118-GE-100 turbofans",
+      "fun_fact": "The B-2 Spirit was the first aircraft to incorporate stealth technology, and it remains one of the most advanced and expensive aircraft in the world, with an estimated unit cost of over $2 billion."
+    },
+    {
+      "name": "F-16 Fighting Falcon",
+      "history": "The F-16 Fighting Falcon is a single-engine supersonic multirole fighter aircraft developed for the United States Air Force. It was designed as an air superiority day fighter, but has evolved to perform a wide range of missions, including ground attack and reconnaissance.",
+      "year": "1978",
+      "purpose": ["Air superiority", "Ground attack", "Reconnaissance"],
+      "technologies_used": {
+        "first_technology": {
+          "name": "fly-by-wire system",
+          "description": "The F-16 Fighting Falcon was one of the first aircraft to use a fly-by-wire control system, which replaced traditional mechanical controls with electronic signals."
+        },
+        "second_technology": {
+          "name": "modularity",
+          "description": "The F-16 Fighting Falcon's modular design allows for quick and easy replacement of parts and systems, reducing maintenance time and costs."
+        },
+        "third_technology": {
+          "name": "advanced avionics",
+          "description": "The F-16 Fighting Falcon is equipped with advanced avionics that provide pilots with a comprehensive view of the battlespace and improve situational awareness."
+        }
+      },
+      "images": {
+        "history_img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/F-16C_Polska_5594.jpg",
+        "facts_img": "https://cdn.defence24.pl/2021/05/20/1920xpx/qteb81-zrzutekranu20210520o09.52.35.png",
+        "header_img": "/images/planes/f-16.png"
+      },
+      "engine_type": "One Pratt & Whitney F100-PW-200 turbofan engine",
+      "fun_fact": "The F-16 Fighting Falcon has been used by over 25 countries and is still in active service around the world, making it one of the most successful and widely-used fighter aircraft in history."
+    },
+
+    {
+      "name": "Lockheed SR-71 Blackbird",
+      "history": "The Lockheed SR-71 Blackbird is a long-range, Mach 3+ strategic reconnaissance aircraft that was operated by the United States Air Force and flew from 1964 to 1998. It was developed as a successor to the U-2 spy plane and was used for reconnaissance missions over hostile territory.",
+      "year": "1966",
+      "purpose": ["Strategic reconnaissance"],
+      "technologies_used": {
+        "first_technology": {
+          "name": "aerodynamic design",
+          "description": "The SR-71 Blackbird has a unique aerodynamic design that allows it to reach extremely high speeds while flying at high altitudes."
+        },
+        "second_technology": {
+          "name": "thermal protection",
+          "description": "The SR-71 Blackbird is coated in a special material called SR-71 Black, which provides thermal protection for the aircraft during high-speed flight."
+        },
+        "third_technology": {
+          "name": "advanced avionics",
+          "description": "The SR-71 Blackbird is equipped with advanced avionics that allow it to gather and transmit large amounts of intelligence data during reconnaissance missions."
+        }
+      },
+      "images": {
+        "history_img": "https://antonio2.s12.cdn-upgates.com/_cache/1/4/1438ac14d9e365cdf87a250fb7b12d55-blackbird-antonio.jpg",
+        "facts_img": "https://i.wpimg.pl/640x0/i.wp.pl/a/f/jpeg/32107/lockheed__s_71_black_bird_8.jpeg",
+        "header_img": "/images/planes/blackbird.png"
+      },
+      "engine_type": "Two Pratt & Whitney J58-1 turbojet engines",
+      "fun_fact": "The SR-71 Blackbird holds the world record for the fastest air-breathing manned aircraft, with a top speed of Mach 3.3 (2,193 mph or 3,529 km/h)."
+    }
+  ]
+}

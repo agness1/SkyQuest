@@ -1,0 +1,28 @@
+{
+  "planes": [
+    {
+      "name": "Lockheed Martin F-22 Raptor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/F-22_Raptor_-_100702-F-4815G-217.jpg/1280px-F-22_Raptor_-_100702-F-4815G-217.jpg"
+    },
+    {
+      "name": "F-35 Lightning II",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_U.S._Air_Force_pilot_navigates_an_F-35A_Lightning_II_aircraft_assigned_to_the_58th_Fighter_Squadron%2C_33rd_Fighter_Wing_into_position_to_refuel_with_a_KC-135_Stratotanker_assigned_to_the_336th_Air_Refueling_130516-F-XL333-454.jpg/1280px-thumbnail.jpg"
+    },
+    {
+      "name": "F-15 Eagle",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG/1280px-F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG"
+    },
+    {
+      "name": "Northrop B-2 Spirit",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/USAF_B-2_Spirit.jpg"
+    },
+    {
+      "name": "F-16 Fighting Falcon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/1280px-F-16_June_2008.jpg"
+    },
+    {
+      "name": "Lockheed SR-71 Blackbird",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/1024px-Lockheed_SR-71_Blackbird.jpg"
+    }
+  ]
+}
