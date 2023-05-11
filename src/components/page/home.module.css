@@ -42,16 +42,6 @@
   align-items: center;
   flex-direction: column;
 }
-.event_container {
-  margin-bottom: 10rem;
-  background-color: #e9f8f9;
-  padding: 5rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 60%;
-  border-radius: 1rem;
-}
 
 .history_paragraph {
   padding-top: 15rem;
@@ -61,30 +51,9 @@
   color: #181823;
 }
 
-.history_event {
-  padding: 2rem;
-  width: 90%;
-  font-size: 1.5rem;
-  letter-spacing: 2px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: #181823;
-}
-.history_event p {
-  line-height: 2rem;
-  font-weight: 700;
-  text-align: center;
-  padding: 2rem;
-}
-.history_event_img {
-  max-width: 40%;
-  border-radius: 1rem;
-}
+
 .subtitle {
   width: 100%;
-
   color: #181823;
   top: 0;
   max-width: 60%;
@@ -154,7 +123,14 @@
     text-align: center;
     max-width: 80%;
   }
+  .subtitle q {
+    font-size: 2.5rem;
+  }
   .author {
     text-align: left;
+    font-size: 2rem;
+  }
+  .history_paragraph {
+    font-size: 1.5rem;
   }
 }

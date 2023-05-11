@@ -45,6 +45,7 @@
 @media only screen and (max-width: 768px) {
   .navigation {
     justify-content: flex-start;
+    width: 100vw;
   }
   .mobile_menu {
     display: flex;

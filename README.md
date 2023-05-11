@@ -1,38 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SkyQuest - Next.js with TypeScript
 
-## Getting Started
 
-First, run the development server:
+This is a Next.js project built with TypeScript that allows users to track airplanes flying over Poland. It utilizes real-time flight data to provide information about the planes' current location, altitude, speed, and other relevant details.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Project Link
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Check out the SkyQuest project: https://sky-quest.vercel.app/
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Live tracking of airplanes over Poland
+- Display of detailed information for each tracked plane
+- Interactive map visualization of airplane positions
+- Responsive design for seamless usage on different devices
+- Ability to select a specific airplane model and view its information
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Screenshots
 
-## Learn More
+Here are some screenshots of SkyQuest:
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 1](/public/screenshots/planeDetails-screenshot.png)
+![Screenshot 2](/public/screenshots/home-mobile.png)
+![Screenshot 2](/public/screenshots/tracker-popup-screenshot.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Technologies Used
 
-## Deploy on Vercel
+- Next.js: A React framework for server-rendered applications
+- TypeScript: A statically typed superset of JavaScript
+- OpenSky API: Provides real-time flight data
+- Leaflet: An open-source mapping library for interactive maps
+- CSS: Custom CSS for styling
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
